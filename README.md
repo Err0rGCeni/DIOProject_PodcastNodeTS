@@ -1,6 +1,6 @@
 # Gerenciador de Podcasts - API NodeJS Com Typescript e HTTP Module
 
-Exemmplo de aplicação para centralizar diferentes episódios de podcasts separados por categorias.
+Exemplo de aplicação para centralizar diferentes episódios de podcasts separados por categorias.
 
 ## Setup
 
